@@ -91,7 +91,7 @@
 
 
 ## Recent Blog Posts  
-Interested on seeing my #100DayofCode unfold? Check it out here, https://twitter.com/alisonlaurenma1  
+<div align="center">Interested on seeing my #100DayofCode unfold? Check it out here, https://twitter.com/alisonlaurenma1</div>  
   
 
 <br/>  
