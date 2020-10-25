@@ -51,7 +51,7 @@ https://github.com/alisonlauren/ReactMemoryGame
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
