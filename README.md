@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 I’m a full-stack developer who is currently studying with DigitalCrafts 📝 
 
-There are two reasons I love programming. First, I enjoy problem solving. In my previous job I was in a position of management and what kept me intrigued was all the opportunites to come up with innovative solutions. I've learned that any issue/bug is fixable, even when I'm presented with something new. Additionally, programming is taking the nonexistent and generating something new. I love to create, design, and imagine what the user will feel when the visit my projects. I want what every consumer wants, something simple, effecient and beautiful! 
+There are two reasons I love programming. First, I enjoy problem solving. In my previous job I was in a position of management and what kept me intrigued was all the opportunites to come up with innovative solutions. I've learned that any issue/bug is fixable, even when I'm presented with something new. Additionally, programming is taking the nonexistent and generating something new. I love to create, design, and imagine what the user will feel when they visit my projects. I want what every consumer wants, something simple, effecient and beautiful! 
 
 
 <br/>  
