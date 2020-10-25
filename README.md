@@ -47,12 +47,7 @@ https://github.com/alisonlauren/ReactMemoryGame
 
 - ⚡ Fun fact: When the coding gets tough, I rely on quality programming memes to laugh off the pain. Then right back to work!  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
