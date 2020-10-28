@@ -54,8 +54,6 @@ https://github.com/alisonlauren/ReactMemoryGame
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="45" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="45" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="45" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="45" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />  
