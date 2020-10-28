@@ -80,11 +80,8 @@ https://github.com/alisonlauren/ReactMemoryGame
   
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
+📩 Email: alisonlaurenmanning@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/alison-manning-9a25391b1/
 
 
 <br />
