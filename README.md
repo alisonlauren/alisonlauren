@@ -81,6 +81,7 @@ https://github.com/alisonlauren/ReactMemoryGame
 
 <br/>  
 📩 Email: alisonlaurenmanning@gmail.com
+<br />
 💼 LinkedIn: https://www.linkedin.com/in/alison-manning-9a25391b1/
 
 
