@@ -80,6 +80,8 @@ https://github.com/alisonlauren/ReactMemoryGame
   
 
 <br/>  
+
+
 📩 Email: alisonlaurenmanning@gmail.com
 <br />
 💼 LinkedIn: https://www.linkedin.com/in/alison-manning-9a25391b1/
@@ -87,6 +89,5 @@ https://github.com/alisonlauren/ReactMemoryGame
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> 
+
 
