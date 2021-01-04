@@ -36,7 +36,7 @@ https://github.com/alisonlauren/ReactMemoryGame
 - ❓ Ask me about how much I love front end development!  
   
 
-- ⚡ Fun fact: When the coding gets tough, I rely on quality programming memes to laugh off the pain. Then right back to work!  
+- ⚡ Fun fact: When the coding gets tough, and I need a little break, I rely on the small website I developed with a Kanye West API, that spits his random quotes. Oddly, very helpful!  
 
 </table>  
 
